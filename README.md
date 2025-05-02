@@ -34,8 +34,9 @@ The project’s objectives include improving production efficiency by 30%, minim
 
 ### **4. Prompt Types Used**
 
+<img src="https://github.com/user-attachments/assets/57f63d3d-73ce-42f9-a24a-5c7e42bfa427" width="800" height="800">
 
-![image](https://github.com/user-attachments/assets/151e73b2-16f8-4223-8885-8b4a0bfa3481)
+
 
 Three major prompt categories were used throughout development: straightforward prompts for idea generation, tabular prompts for comparison of alternatives, and preceding-question prompts to simulate conversational logic and natural progression in chatbot-user interactions. Each prompt style contributes to user experience personalization and system robustness.
 
@@ -83,7 +84,9 @@ This technique uses a sequence of logically connected questions. For example, �
 
 ### **10. Chatbot Use Case Workflow**
 
-![image](https://github.com/user-attachments/assets/74410a2e-9b5a-4064-8198-2740eafaea72)
+<img src="https://github.com/user-attachments/assets/7e807e6c-330a-41e8-af59-0ec4736a0445" width="800" height="800">
+
+
 
 The chatbot is designed to respond based on categorized queries such as product issues, order tracking, or system errors. For example, if a user asks, “Why did the conveyor stop?”, the bot fetches real-time data and provides the most probable cause and steps to resolve it.
 
@@ -100,7 +103,8 @@ Using impact-based prioritization, core features such as predictive alerts, faul
 
 ### **13. Natural Language Understanding (NLU)**
 
-<img src="https://github.com/user-attachments/assets/8eee266e-ffa1-4988-a050-348d7267356f" width="2500" height="2500">
+![image](https://github.com/user-attachments/assets/fe48bc3b-994c-4c52-8044-271b9fc4b753)
+
 
 
 Prompts like “Where is my product?” and “Track my package” help train the bot to handle varied expressions of the same intent. Advanced NLU ensures that the chatbot understands context, synonyms, and user habits.
