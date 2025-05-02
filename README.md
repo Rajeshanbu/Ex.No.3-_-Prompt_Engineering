@@ -34,7 +34,7 @@ The projectâ€™s objectives include improving production efficiency by 30%, minim
 
 ### **4. Prompt Types Used**
 
-<img src="https://github.com/user-attachments/assets/57f63d3d-73ce-42f9-a24a-5c7e42bfa427" width="800" height="800">
+<img src="https://github.com/user-attachments/assets/57f63d3d-73ce-42f9-a24a-5c7e42bfa427" width="700" height="700">
 
 
 
@@ -84,7 +84,7 @@ This technique uses a sequence of logically connected questions. For example, â€
 
 ### **10. Chatbot Use Case Workflow**
 
-<img src="https://github.com/user-attachments/assets/7e807e6c-330a-41e8-af59-0ec4736a0445" width="800" height="800">
+<img src="https://github.com/user-attachments/assets/7e807e6c-330a-41e8-af59-0ec4736a0445" width="500" height="500">
 
 
 
